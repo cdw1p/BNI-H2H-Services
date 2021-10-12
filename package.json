@@ -1,0 +1,25 @@
+{
+  "name": "bni-h2h-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/BNI-H2H-Services.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/BNI-H2H-Services/issues"
+  },
+  "homepage": "https://github.com/cdw1p/BNI-H2H-Services#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "js-base64": "^3.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
